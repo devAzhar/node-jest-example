@@ -1,0 +1,14 @@
+{
+  "name": "node-jest-example",
+  "version": "1.0.0",
+  "description": "https://github.com/devAzhar/node-jest-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
